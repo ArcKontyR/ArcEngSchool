@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcEngSchool", "ArcEngSchool.csproj", "{68B6A05B-46DC-421E-9741-050D7E77590F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B6A05B-46DC-421E-9741-050D7E77590F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B6A05B-46DC-421E-9741-050D7E77590F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B6A05B-46DC-421E-9741-050D7E77590F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B6A05B-46DC-421E-9741-050D7E77590F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3AC296-CD91-42FB-8ED5-D204B0C46453}
+	EndGlobalSection
+EndGlobal
